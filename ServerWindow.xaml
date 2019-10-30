@@ -112,6 +112,7 @@
                 <ComboBoxItem Content="A Realm Reborn"/>
                 <ComboBoxItem Content="Heavensward"/>
                 <ComboBoxItem Content="Stormblood"/>
+                <ComboBoxItem Content="Shadowbringers"/>
             </ComboBox>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Margin="260,4,241,0" HorizontalAlignment="Center" Width="397">
@@ -119,8 +120,8 @@
             <ComboBox x:Name="languageComboBox" Height="22" Width="234" Margin="22,0,0,0" SelectedIndex="1">
                 <ComboBoxItem Content="日本語"/>
                 <ComboBoxItem Content="English"/>
-                <ComboBoxItem Content="Français"/>
                 <ComboBoxItem Content="Deutsch"/>
+                <ComboBoxItem Content="Français"/>
             </ComboBox>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Margin="260,4,241,0" HorizontalAlignment="Center" Width="397">
